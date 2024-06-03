@@ -1,0 +1,248 @@
+[
+    {
+        "name": "Apple iPhone 13",
+        "price": "799.99",
+        "description": "Latest model with A15 Bionic chip.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/iphone13-front.jpg"
+            },
+            {
+                "image": "https://example.com/iphone13-back.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Apple Store",
+        "stock": "200",
+        "numOfReviews": "1500",
+        "createdAt": "2023-09-14T00:00:00Z"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": "699.99",
+        "description": "High-end Android smartphone with AMOLED display.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/galaxys21-front.jpg"
+            },
+            {
+                "image": "https://example.com/galaxys21-back.jpg"
+            }
+        ],
+        "category": "Smartphones",
+        "seller": "Samsung Official",
+        "stock": "300",
+        "numOfReviews": "1200",
+        "createdAt": "2023-01-29T00:00:00Z"
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "price": "349.99",
+        "description": "Industry-leading noise cancelling headphones.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "image": "https://example.com/sonywh1000xm4.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Sony Store",
+        "stock": "150",
+        "numOfReviews": "800",
+        "createdAt": "2022-11-20T00:00:00Z"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": "999.99",
+        "description": "Powerful laptop with InfinityEdge display.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/dellxps13.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Dell Store",
+        "stock": "100",
+        "numOfReviews": "500",
+        "createdAt": "2023-05-15T00:00:00Z"
+    },
+    {
+        "name": "Adidas Ultraboost 21",
+        "price": "179.99",
+        "description": "High-performance running shoes.",
+        "ratings": "4.4",
+        "images": [
+            {
+                "image": "https://example.com/ultraboost21.jpg"
+            }
+        ],
+        "category": "Footwear",
+        "seller": "Adidas",
+        "stock": "250",
+        "numOfReviews": "600",
+        "createdAt": "2023-02-10T00:00:00Z"
+    },
+    {
+        "name": "Sony PlayStation 5",
+        "price": "499.99",
+        "description": "Next-gen gaming console.",
+        "ratings": "4.9",
+        "images": [
+            {
+                "image": "https://example.com/ps5.jpg"
+            }
+        ],
+        "category": "Gaming",
+        "seller": "Sony",
+        "stock": "80",
+        "numOfReviews": "3000",
+        "createdAt": "2020-11-12T00:00:00Z"
+    },
+    {
+        "name": "Amazon Echo Dot",
+        "price": "49.99",
+        "description": "Smart speaker with Alexa.",
+        "ratings": "4.3",
+        "images": [
+            {
+                "image": "https://example.com/echodot.jpg"
+            }
+        ],
+        "category": "Smart Home",
+        "seller": "Amazon",
+        "stock": "500",
+        "numOfReviews": "2000",
+        "createdAt": "2021-10-22T00:00:00Z"
+    },
+    {
+        "name": "Nike Air Force 1",
+        "price": "89.99",
+        "description": "Classic style sneaker.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/airforce1.jpg"
+            }
+        ],
+        "category": "Footwear",
+        "seller": "Nike",
+        "stock": "300",
+        "numOfReviews": "1800",
+        "createdAt": "2022-05-18T00:00:00Z"
+    },
+    {
+        "name": "HP Envy Printer",
+        "price": "129.99",
+        "description": "All-in-one wireless printer.",
+        "ratings": "4.2",
+        "images": [
+            {
+                "image": "https://example.com/hpenvy.jpg"
+            }
+        ],
+        "category": "Printers",
+        "seller": "HP",
+        "stock": "400",
+        "numOfReviews": "700",
+        "createdAt": "2023-03-30T00:00:00Z"
+    },
+    {
+        "name": "Apple MacBook Air M1",
+        "price": "999.99",
+        "description": "Thin, light, powerful with M1 chip.",
+        "ratings": "4.8",
+        "images": [
+            {
+                "image": "https://example.com/macbookairm1.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Apple Store",
+        "stock": "120",
+        "numOfReviews": "1100",
+        "createdAt": "2020-11-17T00:00:00Z"
+    },
+    {
+        "name": "Bose SoundLink Speaker",
+        "price": "129.99",
+        "description": "Portable Bluetooth speaker.",
+        "ratings": "4.6",
+        "images": [
+            {
+                "image": "https://example.com/soundlink.jpg"
+            }
+        ],
+        "category": "Speakers",
+        "seller": "Bose",
+        "stock": "230",
+        "numOfReviews": "650",
+        "createdAt": "2021-09-05T00:00:00Z"
+    },
+    {
+        "name": "Microsoft Surface Pro 7",
+        "price": "749.99",
+        "description": "Versatile 2-in-1 laptop.",
+        "ratings": "4.4",
+        "images": [
+            {
+                "image": "https://example.com/surfacepro7.jpg"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Microsoft",
+        "stock": "180",
+        "numOfReviews": "900",
+        "createdAt": "2022-06-01T00:00:00Z"
+    },
+    {
+        "name": "Logitech MX Master 3",
+        "price": "99.99",
+        "description": "Advanced wireless mouse.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/mxmaster3.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Logitech",
+        "stock": "350",
+        "numOfReviews": "550",
+        "createdAt": "2020-08-25T00:00:00Z"
+    },
+    {
+        "name": "Google Nest Thermostat",
+        "price": "129.99",
+        "description": "Smart thermostat for home.",
+        "ratings": "4.5",
+        "images": [
+            {
+                "image": "https://example.com/nestthermostat.jpg"
+            }
+        ],
+        "category": "Smart Home",
+        "seller": "Google",
+        "stock": "150",
+        "numOfReviews": "400",
+        "createdAt": "2021-12-15T00:00:00Z"
+    },
+    {
+        "name": "Asus ROG Gaming Laptop",
+        "price": "1499.99",
+        "description": "High-performance gaming laptop.",
+        "ratings": "4.7",
+        "images": [
+            {
+                "image": "https://example.com/rog.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Asus",
+        "stock": "100",
+        "numOfReviews": "700",
+        "createdAt": "2023-07-10T00:00:00Z"
+    }
+]
